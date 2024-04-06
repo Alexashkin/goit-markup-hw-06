@@ -313,8 +313,8 @@ address {
 
     border-radius: 50%;
     border: 1px solid rgba(0, 0, 0, 0.1);
-    background-color: #e7e9fc;
-    color: #2e2f42;
+    background-color: transparent
+    
 
     width: 24px;
     height: 24px;
